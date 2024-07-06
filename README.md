@@ -1,1 +1,1 @@
-# Excel_Dashboard
+This contains an interactive dashboard designed to visualize and to analyze sales data. The dashboard provides insights into various metrics such as current year sales,last year slaes,current year profits ,last year profits by comparing sub category ,order_id,sales and profits.
